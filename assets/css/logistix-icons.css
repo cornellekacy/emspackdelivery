@@ -1,0 +1,179 @@
+@font-face {
+  font-family: 'logistixs';
+  src:  url('../fonts/logistix567a.eot?czhdc2');
+  src:  url('../fonts/logistix567a.eot?czhdc2#iefix') format('embedded-opentype'),
+    url('../fonts/logistix567a.ttf?czhdc2') format('truetype'),
+    url('../fonts/logistix567a.woff?czhdc2') format('woff'),
+    url('../fonts/logistix567a.svg?czhdc2#logistix') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="logistixs-"], [class*=" logistixs-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'logistixs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logistixs-bank-support:before {
+  content: "\e932";
+}
+.logistixs-badge:before {
+  content: "\e900";
+}
+.logistixs-location:before {
+  content: "\e901";
+}
+.logistixs-world:before {
+  content: "\e902";
+}
+.logistixs-size1:before {
+  content: "\e903";
+}
+.logistixs-size2:before {
+  content: "\e904";
+}
+.logistixs-fragile:before {
+  content: "\e905";
+}
+.logistixs-recycling:before {
+  content: "\e906";
+}
+.logistixs-scan-package:before {
+  content: "\e907";
+}
+.logistixs-stack-in-depot:before {
+  content: "\e908";
+}
+.logistixs-this-side-up:before {
+  content: "\e909";
+}
+.logistixs-hand-truck:before {
+  content: "\e90a";
+}
+.logistixs-danger-sign:before {
+  content: "\e90b";
+}
+.logistixs-keep-dry:before {
+  content: "\e90c";
+}
+.logistixs-delivery-truck:before {
+  content: "\e90d";
+}
+.logistixs-airplane:before {
+  content: "\e90e";
+}
+.logistixs-anchor-shape:before {
+  content: "\e90f";
+}
+.logistixs-bookmark-ribbon:before {
+  content: "\e910";
+}
+.logistixs-calculator:before {
+  content: "\e911";
+}
+.logistixs-call-center-man:before {
+  content: "\e912";
+}
+.logistixs-car-front:before {
+  content: "\e913";
+}
+.logistixs-cargo-boat:before {
+  content: "\e914";
+}
+.logistixs-cogwheel:before {
+  content: "\e915";
+}
+.logistixs-compass:before {
+  content: "\e916";
+}
+.logistixs-flash:before {
+  content: "\e917";
+}
+.logistixs-front-bus:before {
+  content: "\e918";
+}
+.logistixs-google-drive-file:before {
+  content: "\e919";
+}
+.logistixs-manufacturer:before {
+  content: "\e91a";
+}
+.logistixs-notifications-button:before {
+  content: "\e91b";
+}
+.logistixs-package-box:before {
+  content: "\e91c";
+}
+.logistixs-percentage:before {
+  content: "\e91d";
+}
+.logistixs-public-transport-subway:before {
+  content: "\e91e";
+}
+.logistixs-report-symbol:before {
+  content: "\e91f";
+}
+.logistixs-scale:before {
+  content: "\e920";
+}
+.logistixs-school-calendar:before {
+  content: "\e921";
+}
+.logistixs-shop:before {
+  content: "\e922";
+}
+.logistixs-simple-calculator:before {
+  content: "\e923";
+}
+.logistixs-startup:before {
+  content: "\e924";
+}
+.logistixs-stock:before {
+  content: "\e925";
+}
+.logistixs-traffic-light:before {
+  content: "\e926";
+}
+.logistixs-wallet:before {
+  content: "\e927";
+}
+.logistixs-warehouse:before {
+  content: "\e928";
+}
+.logistixs-weight:before {
+  content: "\e929";
+}
+.logistixs-box:before {
+  content: "\e92a";
+}
+.logistixs-credit-card:before {
+  content: "\e92b";
+}
+.logistixs-notepad:before {
+  content: "\e92c";
+}
+.logistixs-open:before {
+  content: "\e92d";
+}
+.logistixs-piggy-bank:before {
+  content: "\e92e";
+}
+.logistixs-price-tag:before {
+  content: "\e92f";
+}
+.logistixs-telephone:before {
+  content: "\e930";
+}
+.logistixs-truck:before {
+  content: "\e931";
+}
